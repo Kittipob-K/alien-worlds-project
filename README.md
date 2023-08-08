@@ -4,10 +4,6 @@
 
 > ข้อมูล: `สถานะกำลังในขั้นตอนการทดสอบระบบ`
 
-
-> info: `Status Currently in the system testing phase`
-
-
 <details>
 <summary>คลิกเพื่อดูวิธีการใช้งานเป็นภาษาไทย</summary>
 
@@ -42,6 +38,8 @@
 - ค่าบริการเป็น 10% ของยอดรายได้จากการขุด TLM ที่ได้รับในแต่ละธุรกรรม ระบบจะหักค่านี้ออกจากจำนวนเครดิตที่มีอยู่ในระบบ
 
 </details>
+
+> info: `Status Currently in the system testing phase`
 
 <details>
 <summary>Click to view How to use it in English</summary>
