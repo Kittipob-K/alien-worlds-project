@@ -2,6 +2,9 @@
 
 ![](256x256.png)
 
+![GitHub release (with filter)](https://img.shields.io/github/v/release/Kittipob-K/alien-worlds-project)
+
+
 > ข้อมูล: `สถานะกำลังในขั้นตอนการทดสอบระบบ`
 
 <details>
