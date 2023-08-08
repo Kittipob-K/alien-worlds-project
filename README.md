@@ -1,4 +1,4 @@
-# ALien Worlds Project
+# Alien Worlds Project
 
 ![](256x256.png)
 
