@@ -25,6 +25,12 @@
 3. เมื่อการลงทะเบียนสำเร็จ จำนวนเครดิตที่คุณมีจะปรากฏ
 4. คุณสามารถเพิ่มบัญชี Wax เพิ่มเติมได้ (ไฟล์ .xlsx [https://shorturl.asia/UREm7](https://shorturl.asia/UREm7))
 
+## ค่าบริการและการเติมเครดิต
+- การเติมเครดิตสำหรับการใช้บริการสามารถทำได้ผ่านทาง 2 ช่องทาง:
+   1. ผ่านระบบบล็อกเชน wax
+   2. ผ่านรหัส QR โดยใช้ PromptPay (ระบบชำระเงินผ่านมือถือในประเทศไทย)
+- ค่าบริการเป็น 10% ของยอดรายได้จากการขุด TLM ที่ได้รับในแต่ละธุรกรรม ระบบจะหักค่านี้ออกจากจำนวนเครดิตที่มีอยู่ในระบบ
+
 </details>
 
 <details>
@@ -53,5 +59,11 @@
 2. Copy the Hardware ID (found in the Control Panel) and use it for registration at [https://alien-master.com](https://alien-master.com).
 3. After completing the registration, the amount of credits you have will be displayed.
 4. You can add additional Wax accounts (file .xlsx [https://shorturl.asia/UREm7](https://shorturl.asia/UREm7)).
+
+## Service Fees and Credit Top-Up
+- Top-up of credits for service usage can be done through 2 channels:
+   1. Via the wax blockchain system
+   2. Via the QR code using PromptPay (a mobile payment system in Thailand)
+- The service fee is 10% of the TLM mining proceeds received in each transaction. The system deducts this fee from the available credit amount.
 
 </details>
