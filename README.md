@@ -2,10 +2,10 @@
 
 ![](256x256.png)
 
-> ข้อมูล: `สถานะ` กำลังในขั้นตอนการทดสอบระบบ
+> ข้อมูล: `สถานะกำลังในขั้นตอนการทดสอบระบบ`
 
 
-> info: `Status` Currently in the system testing phase
+> info: `Status Currently in the system testing phase`
 
 
 <details>
