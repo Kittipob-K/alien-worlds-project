@@ -2,6 +2,12 @@
 
 ![](256x256.png)
 
+> ข้อมูล: `สถานะ` กำลังในขั้นตอนการทดสอบระบบ
+
+
+> info: `Status` Currently in the system testing phase
+
+
 <details>
 <summary>คลิกเพื่อดูวิธีการใช้งานเป็นภาษาไทย</summary>
 
